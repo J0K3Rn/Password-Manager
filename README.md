@@ -6,6 +6,9 @@ Features:
 - Keep track of all your login information locally
 - Automatically generate complex passwords
 - Automatic generated passwords are copied to clipboard for easy paste
+- Utilizes json storage
+- Exception handling
+- Search for existing entries
 
 How to run:
 - Download repository
@@ -17,7 +20,7 @@ How to run:
 - Type in username
 - Type in password or automatically generate a password using the 'Generate Password' button
 - Click add to finalize changes
-- View the entries in passwords.txt
+- View the login information by using the search button or view passwords.json
 
 Game Start:
 
